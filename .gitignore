@@ -1,0 +1,8 @@
+*.tar.gz
+*.tar.xz
+src/
+pkg/
+st-*.diff
+st-*/
+.ccls-cache/
+
